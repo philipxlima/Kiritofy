@@ -1,4 +1,4 @@
-![Repo Banner](https://raw.githubusercontent.com/sahilchouksey/soundrex/master/screenshots/soundrex-repo-banner.png?token=GHSAT0AAAAAABP7QKYUKMI5XP5HWSHPYVJWYRDFJJQ)
+![Repo Banner](https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-6.png?token=GHSAT0AAAAAAB3NGMFWDS7JSO5OCPQYJDWMY7TACHA)
 
 
 
@@ -32,7 +32,7 @@ Check it yourself :)
 
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/sahilchouksey/soundrex/master/screenshots/screenshot-1.png?token=GHSAT0AAAAAABP7QKYUFMMDP74CGLTCJL7UYRDFKKA" width="32%"> <img src="https://raw.githubusercontent.com/sahilchouksey/soundrex/master/screenshots/screenshot-2.png?token=GHSAT0AAAAAABP7QKYVCGVVSHMPRDZMTYFOYRDFLHA" width="32%"> <img src="https://raw.githubusercontent.com/sahilchouksey/soundrex/master/screenshots/screenshot-3.png?token=GHSAT0AAAAAABP7QKYVFUWIDVQG63F47EKIYRDFL6Q" width="32%"> <img src="https://raw.githubusercontent.com/sahilchouksey/soundrex/master/screenshots/screenshot-4.png?token=GHSAT0AAAAAABP7QKYU4P4JT34P5XDD6I64YRDFMMA" width="32%"> <img src="https://raw.githubusercontent.com/sahilchouksey/soundrex/master/screenshots/screenshot-5.png?token=GHSAT0AAAAAABP7QKYVK5MLN7WRL37QRA32YRDFMZA" width="32%"> <img src="https://raw.githubusercontent.com/sahilchouksey/soundrex/master/screenshots/screenshot-6.png?token=GHSAT0AAAAAABP7QKYVCRQNZCTR4QAAVBE2YRDFNGQ" width="32%">
+<img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-1.png?token=GHSAT0AAAAAAB3NGMFWD3TJC5E6RCBR6GHCY7TAA7Q" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-2.png?token=GHSAT0AAAAAAB3NGMFXJIL5ZNXRFN7SSVRSY7TABMA" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-3.png?token=GHSAT0AAAAAAB3NGMFX4FE6JSE6IKBLZ4XQY7TABSQ" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-4.png?token=GHSAT0AAAAAAB3NGMFXJ6NBEU7W5YA5OT5KY7TAB2A" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-5.png?token=GHSAT0AAAAAAB3NGMFXCOPEH3UXOICYYFB4Y7TACBQ" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-7.png?token=GHSAT0AAAAAAB3NGMFXDGZ2FXOGODW33IECY7TACKA" width="32%">
 
 
 ## License
