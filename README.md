@@ -4,11 +4,11 @@
 
 # Kiritofy
 
- A Music Player Web App made with React 
+Um aplicativo Web Music Player feito com o React
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Features
+## Características
 
 * Song, Album, Artist and Playlist Search
   - Note: all content is audio-only.
@@ -27,9 +27,8 @@
 * No Ads
 * Uses a custom wrapper around the YouTube Music API
 
-and much more...
-Check it yourself :)
-
+e muito mais...
+Verifique você mesmo :)
 
 ## Screenshots
 <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-1.png?token=GHSAT0AAAAAAB3NGMFWD3TJC5E6RCBR6GHCY7TAA7Q" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-2.png?token=GHSAT0AAAAAAB3NGMFXJIL5ZNXRFN7SSVRSY7TABMA" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-3.png?token=GHSAT0AAAAAAB3NGMFX4FE6JSE6IKBLZ4XQY7TABSQ" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-4.png?token=GHSAT0AAAAAAB3NGMFXJ6NBEU7W5YA5OT5KY7TAB2A" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-5.png?token=GHSAT0AAAAAAB3NGMFXCOPEH3UXOICYYFB4Y7TACBQ" width="32%"> <img src="https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-7.png?token=GHSAT0AAAAAAB3NGMFXDGZ2FXOGODW33IECY7TACKA" width="32%">
