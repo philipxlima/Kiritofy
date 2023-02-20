@@ -2,7 +2,7 @@
 
 
 
-# Soundrex
+# Kiritofy
 
  A Music Player Web App made with React 
 
@@ -37,8 +37,8 @@ Check it yourself :)
 
 ## License
 ```
-Copyright © 2022 Sahil Chouksey
-Soundrex is a free software licensed under GPL v3.0
+Copyright © 2022 Philip X Lima
+Kiritofy is a free software licensed under GPL v3.0
 It is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
 without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
