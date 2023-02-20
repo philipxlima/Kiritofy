@@ -1,8 +1,6 @@
-![Repo Banner](https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-6.png?token=GHSAT0AAAAAAB3NGMFWDS7JSO5OCPQYJDWMY7TACHA)
-
-
-
 # Kiritofy
+
+![Repo Banner](https://raw.githubusercontent.com/philipxlima/Kiritofy/main/screenshots/screenshot-6.png?token=GHSAT0AAAAAAB3NGMFWDS7JSO5OCPQYJDWMY7TACHA)
 
 Um aplicativo Web Music Player feito com o React
 
