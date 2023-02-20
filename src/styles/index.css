@@ -127,7 +127,6 @@ body {
   -webkit-clip-path: circle(50% at 50% 50%);
           clip-path: circle(50% at 50% 50%);
 }
-
 .parallelogram {
   -webkit-clip-path: polygon(20% 0, 100% 0%, 80% 99%, 0% 100%);
           clip-path: polygon(20% 0, 100% 0%, 80% 99%, 0% 100%);
